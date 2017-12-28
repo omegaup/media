@@ -1,17 +1,19 @@
-# omegaUp media
+# omegaUp - Recursos de media
 
-Esta es la estructura que se usa para los art assets:
+## Recursos de omegaUp
 
-* 1 carpeta por art asset desde root
+Estructura que se usa para cada recurso:
+* 1 carpeta desde root
 * Incluir SVG
 * Incluir PNGs en todas las dimensiones necesarias
 
-La carpeta `third_party` es especial: Contiene copias de recursos que no son
-propiedad de omegaUp, pero se replican con permiso. Ejemplos:
+## Recursos de terceros
 
-* evitar hot-linking, en los casos en los que la política de los dueños del
+La carpeta `third_party` es especial. Contiene copias de recursos que no son propiedad de omegaUp y que se replican con permiso.
+
+Usos comunes de recursos de terceros:
+* Evitar hot-linking, en los casos en los que la política de los dueños del
   recurso lo requiera
-* tener la necesidad de mostrar el recurso en el modo de lockdown.
+* Tener la necesidad de mostrar el recurso en el modo de lockdown
 
-En el archivo `third_party/`_`asset`_`/LICENSE.md` debe venir una explicación del
-permiso para cada asset.
+En el archivo `third_party/`_`asset`_`/LICENSE.md` debe venir una explicación del permiso para cada recurso.
