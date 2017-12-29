@@ -25,9 +25,10 @@ Delicious-Bold
 ## Recursos de omegaUp
 
 Estructura para cada recurso:
-- 1 carpeta desde root
-- Incluir SVG en curvas
-- Incluir PNGs en todas las dimensiones necesarias
+- Carpeta desde root
+- SVG original
+- SVG en curvas
+- PNGs en todas las dimensiones necesarias
 
 ## Recursos de terceros
 
