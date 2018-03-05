@@ -1,6 +1,7 @@
 # omegaUp - Recursos de media
 
 ## Paleta de colores
+
 - ![#D0DEF5](https://placehold.it/15/D0DEF5/000000?text=+) #D0DEF5
 - ![#739DE3](https://placehold.it/15/739DE3/000000?text=+) #739DE3
 - ![#5588DD](https://placehold.it/15/5588DD/000000?text=+) #5588DD
@@ -19,12 +20,15 @@
 - ![#8855DD](https://placehold.it/15/8855DD/000000?text=+) #8855DD
 
 ## Fuentes
+
 Delicious-Bold
+
 > A font by Jos Buivenga (exljbris) -> [www.exljbris.com](https://www.exljbris.com/delicious.html)
 
 ## Recursos de omegaUp
 
 Estructura para cada recurso:
+
 - Carpeta desde root
 - SVG original
 - SVG en curvas
@@ -35,6 +39,7 @@ Estructura para cada recurso:
 La carpeta `third_party` es especial. Contiene copias de recursos que no son propiedad de omegaUp y que se replican con permiso.
 
 Usos comunes de recursos de terceros:
+
 - Evitar hot-linking, en los casos en los que la política de los dueños del recurso lo requiera
 - Tener la necesidad de mostrar el recurso en el modo de lockdown
 
