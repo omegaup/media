@@ -19,6 +19,11 @@
 - ![#DD5588](https://placehold.it/15/DD5588?text=+) #DD5588
 - ![#8855DD](https://placehold.it/15/8855DD?text=+) #8855DD
 
+### Colores de status
+- ![#468847](https://placehold.it/15/468847?text=+) #468847 - **Success**
+- ![#C09853](https://placehold.it/15/C09853?text=+) #C09853 - **Warning**
+- ![#B94A48](https://placehold.it/15/B94A48?text=+) #B94A48 - **Error**
+
 ## Fuentes
 
 Delicious-Bold
